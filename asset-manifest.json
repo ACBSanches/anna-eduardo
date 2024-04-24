@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.6a21e8c4.css",
-    "main.js": "./static/js/main.8935594b.js",
+    "main.css": "./static/css/main.7de749c9.css",
+    "main.js": "./static/js/main.48f988af.js",
     "static/media/banner2.png": "./static/media/banner2.52d75050bd458a4ec25f.png",
     "static/media/IgrejaNossaSenhoraDoCarmo.jpeg": "./static/media/IgrejaNossaSenhoraDoCarmo.e602e9b2209915e840dd.jpeg",
     "static/media/banner2Mobile.png": "./static/media/banner2Mobile.3a3f6f68f13e464451ed.png",
     "static/media/ChacaraSantaVitoria.jpeg": "./static/media/ChacaraSantaVitoria.db1f4d82a10af3239b2b.jpeg",
+    "static/media/Step3.png": "./static/media/Step3.b45da3e0d0d0c3aa8ba2.png",
     "static/media/banner.png": "./static/media/banner.280d5fa8a3a7813a0ed8.png",
     "static/media/iCasei2.png": "./static/media/iCasei2.9d38a04be31c18f25788.png",
     "static/media/Logo2.png": "./static/media/Logo2.330472cdd042479535b3.png",
     "static/media/Nubank-Pix.jpg": "./static/media/Nubank-Pix.32184d5d0c705bf92af8.jpg",
+    "static/media/Step1.png": "./static/media/Step1.0f2584bdf18ccf66a466.png",
+    "static/media/Step2.png": "./static/media/Step2.263f3072f1adaffab154.png",
     "index.html": "./index.html",
-    "main.6a21e8c4.css.map": "./static/css/main.6a21e8c4.css.map",
-    "main.8935594b.js.map": "./static/js/main.8935594b.js.map"
+    "main.7de749c9.css.map": "./static/css/main.7de749c9.css.map",
+    "main.48f988af.js.map": "./static/js/main.48f988af.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a21e8c4.css",
-    "static/js/main.8935594b.js"
+    "static/css/main.7de749c9.css",
+    "static/js/main.48f988af.js"
   ]
 }
