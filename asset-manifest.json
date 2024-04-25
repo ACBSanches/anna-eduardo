@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fe21cb97.css",
-    "main.js": "./static/js/main.e29cdd3b.js",
+    "main.css": "./static/css/main.4194c88a.css",
+    "main.js": "./static/js/main.cd086bc1.js",
     "static/media/banner2.png": "./static/media/banner2.52d75050bd458a4ec25f.png",
     "static/media/IgrejaNossaSenhoraDoCarmo.jpeg": "./static/media/IgrejaNossaSenhoraDoCarmo.e602e9b2209915e840dd.jpeg",
     "static/media/banner2Mobile.png": "./static/media/banner2Mobile.3a3f6f68f13e464451ed.png",
@@ -14,11 +14,11 @@
     "static/media/Step1.png": "./static/media/Step1.0f2584bdf18ccf66a466.png",
     "static/media/Step2.png": "./static/media/Step2.263f3072f1adaffab154.png",
     "index.html": "./index.html",
-    "main.fe21cb97.css.map": "./static/css/main.fe21cb97.css.map",
-    "main.e29cdd3b.js.map": "./static/js/main.e29cdd3b.js.map"
+    "main.4194c88a.css.map": "./static/css/main.4194c88a.css.map",
+    "main.cd086bc1.js.map": "./static/js/main.cd086bc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe21cb97.css",
-    "static/js/main.e29cdd3b.js"
+    "static/css/main.4194c88a.css",
+    "static/js/main.cd086bc1.js"
   ]
 }
