@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.77b338a5.css",
-    "main.js": "./static/js/main.1887af37.js",
+    "main.css": "./static/css/main.c85e0d7f.css",
+    "main.js": "./static/js/main.628e6e64.js",
     "static/media/banner2.png": "./static/media/banner2.52d75050bd458a4ec25f.png",
     "static/media/IgrejaNossaSenhoraDoCarmo.jpeg": "./static/media/IgrejaNossaSenhoraDoCarmo.e602e9b2209915e840dd.jpeg",
     "static/media/banner2Mobile.png": "./static/media/banner2Mobile.3a3f6f68f13e464451ed.png",
@@ -13,11 +13,11 @@
     "static/media/Nubank-Pix.jpg": "./static/media/Nubank-Pix.32184d5d0c705bf92af8.jpg",
     "static/media/qrcode-pix.png": "./static/media/qrcode-pix.1ce9e565046ef3e815c0.png",
     "index.html": "./index.html",
-    "main.77b338a5.css.map": "./static/css/main.77b338a5.css.map",
-    "main.1887af37.js.map": "./static/js/main.1887af37.js.map"
+    "main.c85e0d7f.css.map": "./static/css/main.c85e0d7f.css.map",
+    "main.628e6e64.js.map": "./static/js/main.628e6e64.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b338a5.css",
-    "static/js/main.1887af37.js"
+    "static/css/main.c85e0d7f.css",
+    "static/js/main.628e6e64.js"
   ]
 }
