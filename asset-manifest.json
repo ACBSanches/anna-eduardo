@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.2f1ee7fc.css",
-    "main.js": "./static/js/main.3c1070df.js",
+    "main.js": "./static/js/main.1a84ad15.js",
     "static/media/FloresCrochet8.png": "./static/media/FloresCrochet8.1d4fb70163601b7e5415.png",
     "static/media/banner2.png": "./static/media/banner2.52d75050bd458a4ec25f.png",
     "static/media/IgrejaNossaSenhoraDoCarmo.jpeg": "./static/media/IgrejaNossaSenhoraDoCarmo.e602e9b2209915e840dd.jpeg",
@@ -15,10 +15,10 @@
     "static/media/qrcode-pix.png": "./static/media/qrcode-pix.1ce9e565046ef3e815c0.png",
     "index.html": "./index.html",
     "main.2f1ee7fc.css.map": "./static/css/main.2f1ee7fc.css.map",
-    "main.3c1070df.js.map": "./static/js/main.3c1070df.js.map"
+    "main.1a84ad15.js.map": "./static/js/main.1a84ad15.js.map"
   },
   "entrypoints": [
     "static/css/main.2f1ee7fc.css",
-    "static/js/main.3c1070df.js"
+    "static/js/main.1a84ad15.js"
   ]
 }
